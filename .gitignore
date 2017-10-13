@@ -1,18 +1,27 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+*.xls
+*.xlsx
+
+
 
 # Folder config file
 Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+obj/debug/
+debug/
 
 # Windows Installer files
 *.cab
 *.msi
 *.msm
 *.msp
+*.pdb
+*.exe
+*.cache
 
 # Windows shortcuts
 *.lnk
@@ -45,3 +54,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+ExcelMerge/bin/Debug/WindowsFormsApplication1.pdb
+*.exe
+*.Cache
+ExcelMerge/obj/Debug/ExcelMerge.csproj.GenerateResource.Cache
+*.Cache
+*.cache
